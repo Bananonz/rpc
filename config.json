@@ -1,0 +1,29 @@
+{
+    "clientId": "766631717078564886",
+    "activity": {
+        "details": "CuteCat",
+        "state": "1970 Servers!",
+        "assets": {
+            "image": {
+                "small": {
+                    "name": "online",
+                    "text": "The bot is online!"
+                },
+                "large": {
+                    "name": "cutecat",
+                    "text": "Hii, i'm cute!"
+                }
+            }
+        },
+        "buttons": {
+            "v1": {
+                "title": "Invite",
+                "url": "http://dsc.gg/cute.cat"
+            },
+            "v2": {
+                "title": "Support server",
+                "url": "https://discord.gg/zwc4yydS"
+            }
+        }
+    }
+}
